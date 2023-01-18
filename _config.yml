@@ -107,12 +107,12 @@ author:
   name             : "Jaehyun Moon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "곰을 거꾸로 하면 **문**"
-  location         : "Somewhere"
-  email            :
+  location         : "jeju, South Korea"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:jjmjh214@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
