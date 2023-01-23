@@ -19,13 +19,13 @@ locale                   : "KR"
 title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Moon Jaehyun"
 description              : "An amazing website."
 url                      : "https://moonjaehyun.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "MoonJaehyun/MoonJaehyun.github.io"
-teaser                   : "/assets/images/500x300.png" # path of fallback teaser image, e.g. 
-logo                     : "/assets/images/88x88.png" # path of logo image to display in the masthead, e.g. 
+teaser                   : # path of fallback teaser image, e.g.  "/assets/images/500x300.png" 
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png" 
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
