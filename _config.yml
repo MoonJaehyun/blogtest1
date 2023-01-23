@@ -19,7 +19,7 @@ locale                   : "KR"
 title                    : "MoonJaehyun"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Moon Jaehyun"
+name                     : "MoonJaehyun"
 description              : "An amazing website."
 url                      : "https://moonjaehyun.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
