@@ -104,8 +104,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jaehyun Moon"
-  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g.
+  name             : "MoonJaehyun"
+  avatar           :  # path of avatar image, e.g."/assets/images/bio-photo.jpg"
   bio              : "문을 거꾸로 하면 곰."
   location         : "Jeju, South Korea"
   email            : "jjmjh214@gmail.com"
