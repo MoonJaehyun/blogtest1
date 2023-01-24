@@ -1,3 +1,15 @@
+---
+layout: single
+title:  "Welcome to blog!"
+---
+
+# Welcome
+
+**Hello world**, this is my first  blog post.
+
+test1
+
+
 # Disco Diffusion
 
 This is an simple way of creating compelling [Disco Diffusion](http://discodiffusion.com) artworks for generative artists.
