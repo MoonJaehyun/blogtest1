@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise" #색감
 
 # Site Settings
-locale                   : "KR"
-title                    : "MJH BLOG"
+locale                   : "ko-KR" #주요 언어
+title                    : "MJH BLOG" #사이트 탭에서 보이는 이름
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : # 타이틀 하단 소제목
 name                     : "MoonJaehyun"
 description              : "An amazing website."
 url                      : "https://moonjaehyun.github.io/"
