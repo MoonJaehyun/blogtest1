@@ -20,7 +20,7 @@ title                    : "MJH BLOG" #사이트 탭에서 보이는 이름
 title_separator          : "-"
 subtitle                 : # 타이틀 하단 소제목
 name                     : "문재현(Moon Jaehyun)"
-description              : "꾸준함이 주는 습관"
+description              : "성실한 내가 되기 위해 파이팅"
 url                      : "https://moonjaehyun.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "MoonJaehyun/MoonJaehyun.github.io"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "MoonJaehyun"
   avatar           :  # path of avatar image, e.g."/assets/images/bio-photo.jpg"
-  bio              : "**기록이 자산!!**<br>매일 공부하고 있습니다.<br>문을 거꾸로 하면 곰.."
+  bio              : "**기록이 자산!!**<br>꾸준함이 만드는 습관<br>문을 거꾸로 하면 곰.."
   location         : "Republic of Korea"
   email            : "jjmjh214@gmail.com"
   links:
