@@ -7,6 +7,6 @@ main:
   - title: "Category"
     url: /categories/
   - title: "Tags"
-    url: /tags/
+    url: /tags/g
   # - title: "Sitemap"
   #   url: /sitemap/
