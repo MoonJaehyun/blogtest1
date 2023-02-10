@@ -6,7 +6,7 @@ toc_sticky: true
 toc_label: "MYSELF"
 ---
 
-# 자기소개
+## 자기소개
 
 문재현
 인공지능 학부생
