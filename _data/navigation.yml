@@ -4,8 +4,6 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Introduce"
     url: /about/
-  - title: "Category"
-    url: /categories/
   - title: "Tags"
     url: /tags/
   # - title: "Sitemap"
@@ -14,9 +12,12 @@ main:
 sidebar-category:
   - title: "카테고리"
     children:
-      - title: "블로그"
-        url: "/blog"
-      - title: "카테고리B"
-        url:  "/CategoryB"
-      - title: "카테고리C"
-        url:  "/CategoryC"
+      - title: "학교과제"
+        url: "/assignment"
+        category: "assignment"
+      - title: "python"
+        url:  "/python"
+        category: "python"
+      - title: "기타"
+        url:  "/etc"
+        category: "etc"
