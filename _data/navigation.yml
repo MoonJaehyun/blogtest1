@@ -6,8 +6,6 @@ main:
     url: /about/
   - title: "Tags"
     url: /tags/
-  # - title: "Sitemap"
-  #   url: /sitemap/
 
 sidebar-category:
   - title: "카테고리"
