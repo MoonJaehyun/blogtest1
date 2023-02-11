@@ -1,6 +1,6 @@
 ---
 permalink: /assignment/
-title: "assignment"
+title: "학교과제"
 layout: archive
 toc: true
 toc_sticky: true
