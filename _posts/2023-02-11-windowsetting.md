@@ -36,7 +36,8 @@ sns_instagram : m._.jaehyun
             
             설정 – 개인 설정 – 작업 표시줄 항목 전부 끄기
             
-            ![workbar.png]("../../assets/img/workbar.png")
+            ![workbar](https://user-images.githubusercontent.com/86664178/218251096-509dd02c-b3f0-4686-a451-d9bb59330357.png)
+
             
         - 장치 및 전원 관리 옵션
             
