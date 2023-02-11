@@ -10,6 +10,9 @@
   {% assign title = post.title %}
 {% endif %}
 
+{% assign posts = site.categories.Cpp %}
+{% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
+
 <div class="{{ include.type | default: 'list' }}__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
