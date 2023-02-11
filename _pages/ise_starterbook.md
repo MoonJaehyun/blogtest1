@@ -1,5 +1,5 @@
 ---
-permalink: /categories/ise_starterbook/
+permalink: /categories/#ise_starterbook/
 title: "인공지능공학과"
 layout: archive
 toc: true

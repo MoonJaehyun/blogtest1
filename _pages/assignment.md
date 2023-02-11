@@ -1,5 +1,5 @@
 ---
-permalink: /categories/assignment/
+permalink: /categories/#assignment/
 title: "assignment"
 layout: archive
 toc: true

@@ -1,5 +1,5 @@
 ---
-permalink: /categories/etc/
+permalink: /categories/#etc/
 title: "etc"
 layout: archive
 toc: true
