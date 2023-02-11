@@ -1,6 +1,7 @@
 ---
 permalink: /ise_starterbook/
 title: "인공지능공학과"
+layout: archive
 toc: true
 toc_sticky: true
 toc_label: "MYSELF"
