@@ -1,5 +1,5 @@
 ---
-permalink: /categories/#python/
+permalink: /python/
 title: "python"
 layout: archive
 toc: true
