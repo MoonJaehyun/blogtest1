@@ -11,7 +11,7 @@ sidebar-category:
   - title: "학교"
     children:
       - title: "인공지능공학과"
-        url:  "/ISE_staterbook"
+        url:  "/ise_staterbook"
         category: "ise_starterbook"
       - title: "학교과제"
         url: "/assignment"
