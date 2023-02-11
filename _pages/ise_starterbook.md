@@ -4,6 +4,7 @@ title: "인공지능공학과"
 toc: true
 toc_sticky: true
 toc_label: "MYSELF"
+sidebar: true
 ---
 
 
