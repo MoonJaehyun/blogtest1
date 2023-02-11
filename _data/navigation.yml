@@ -8,7 +8,7 @@ main:
     url: /tags/
 
 sidebar-category:
-  - title: "카테고리"
+  - title: "학교"
     children:
       - title: "인공지능공학과"
         url:  "/ISE_staterbook"
@@ -16,9 +16,11 @@ sidebar-category:
       - title: "학교과제"
         url: "/assignment"
         category: "assignment"
-      - title: "python"
-        url:  "/python"
-        category: "python"
       - title: "기타"
         url:  "/etc"
         category: "etc"
+  - title: "프로그래밍"
+    children:
+      - title: "python"
+        url:  "/python"
+        category: "python"
