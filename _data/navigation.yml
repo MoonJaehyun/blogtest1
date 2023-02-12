@@ -3,11 +3,11 @@ main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Introduce"
-    url: /about/
+    url: "/about/"
   - title: "Category"
-    url: /categories/
+    url: "/categories/"
   - title: "Tags"
-    url: /tags/
+    url: "/tags/"
 
 sidebar-category:
   - title: "학교"
