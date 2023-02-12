@@ -4,13 +4,13 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Introduce"
     url: "/about/"
-  - title: "Category"
-    url: "/categories/"
   - title: "Tags"
     url: "/tags/"
-
+  - title: "Category"
+    url: "/categories/list"
+    
 sidebar-category:
-  - title: "학교"
+  - title: "category"
     children:
       - title: "인공지능공학과"
         url:  "/ise-starterbook"
